@@ -1,5 +1,7 @@
 body {
- background-image:initial
+background-image: url("VEDIC\ MATHS\ WEBSITE\ BACKGROUND\ IMAGE\ -\ 1..jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 a {
     color: aqua;
